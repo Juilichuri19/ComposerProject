@@ -1,0 +1,16 @@
+{
+    "name": "akshaykadu/composer-project",
+    "description": "Composer Project description",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Juili",
+            "email": "juilichuri19@gmail.com"
+        }
+    ],
+    "require": {}
+}
